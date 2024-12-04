@@ -1,0 +1,6 @@
+const status = 'error';
+if (status.toUpperCase() === 'Error'){
+    console.log('Somethings went wrong');
+}else {
+    console.log('Looks great!!');
+}
